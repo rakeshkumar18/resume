@@ -1,0 +1,7 @@
+# Ignore Everything
+*
+# But not these files
+!main.tex
+!main.pdf
+!.gitignore
+!README.md
