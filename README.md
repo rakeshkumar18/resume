@@ -6,6 +6,5 @@ $ pdflatex main.tex
 
     Output would be main.pdf
 
-# Credits
-
+Credits:
     Resume Template Borrowed from [Aras Gungore](https://github.com/arasgungore/arasgungore-CV)
