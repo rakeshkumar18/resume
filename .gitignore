@@ -1,9 +1,14 @@
 # Ignore Everything
-*
+*.aux
+*.fls
+*.fdb*
+*.log
+*.gz
+
+
 # But not these files
 !main.tex
 !main.pdf
 !.gitignore
 !README.md
-!cover_letter/cover.pdf
-!cover_letter/cover.tex
+!*.tex
